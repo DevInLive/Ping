@@ -11,4 +11,4 @@
  - pping.getping  - разрешает использование команды.
  
  
- Автор: Smilesdc.
+ Авторы: Smilesdc, Mayor. Студия: DevInLive.
