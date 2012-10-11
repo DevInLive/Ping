@@ -1,0 +1,9 @@
+## YAML Template.
+name: Ping
+main: ru.bukkitserver.smilesdc.Ping
+version: 1.0
+author: Smilesdc
+commands:
+        pping:
+          description: Get you or own ping.
+          usage: /ping <player>
