@@ -1,0 +1,6 @@
+## YAML Template.
+DontHavePermission: "&cУ вас нет прав для этого!"
+YourPing: "Ваш пинг: %ping"
+OtherPing: "Пинг игрока %player: %ping"
+PlayerNotOnline: "Игрок %player не онлайн!"
+Error: "&cОшибка!"

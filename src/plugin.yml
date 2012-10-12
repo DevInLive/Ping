@@ -5,5 +5,5 @@ version: 1.0
 author: Smilesdc
 commands:
         pping:
-          description: Get you or own ping.
+          description: Get you or other ping.
           usage: /ping <player>
